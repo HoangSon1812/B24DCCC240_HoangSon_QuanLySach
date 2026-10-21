@@ -2,6 +2,16 @@
 
 Ứng dụng Flutter dành cho bài tập Android, gồm đúng 4 màn hình: đăng nhập, danh sách, thêm sách và chi tiết sách. Giao diện tiếng Việt, nền sáng và màu xanh ngọc `#00796B`.
 
+Sinh viên: **Hoàng Sơn — B24DCCC240**, lớp **INT1449-20261-02**. Bài làm sử dụng Flutter/Dart theo phương án đã được giảng viên đồng ý.
+
+Repository: [B24DCCC240_HoangSon_QuanLySach](https://github.com/HoangSon1812/B24DCCC240_HoangSon_QuanLySach).
+
+## Báo cáo
+
+[Bản Word](B24DCCC240_HoangSon_BaoCao.docx) · [Bản PDF](B24DCCC240_HoangSon_BaoCao.pdf)
+
+Báo cáo có mô tả từng màn hình, đoạn mã Dart thực tế, 14 ảnh chụp trên máy ảo Android và kết quả kiểm thử. File báo cáo được đặt tên theo mẫu của đề bài.
+
 ## Chạy ứng dụng
 
 Yêu cầu Flutter 3.47.5 / Dart 3.13.4 trở lên và Android SDK. Mở thư mục dự án trong Android Studio hoặc VS Code, sau đó chạy:
